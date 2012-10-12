@@ -6,6 +6,7 @@ A simple benchmarking script in codeigniter to test server efficiency.
 ## Usage
 
 Copy the benchmark_model.php file into your models directory.
+
 Run in any controller:
 
 	<?php
